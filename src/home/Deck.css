@@ -1,0 +1,16 @@
+.deck-card {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.deck-header,.deck-buttons {
+    justify-content: space-between;
+}
+
+span {
+    align-self: center 
+}
+

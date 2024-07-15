@@ -1,0 +1,13 @@
+.card{
+    padding: 20px;
+}
+
+.card-content{
+    font-size: 20px;
+}
+
+button{
+    padding: 10px 15px;
+    border-radius: 5px;
+    border-width: 0px;
+}

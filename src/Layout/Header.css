@@ -1,0 +1,16 @@
+.bg-dark {
+  background-color: #3A3B3C;
+  border-radius: 10px;
+  height: 300px;
+  position: relative;
+  margin: -10px;
+}
+
+.text-white {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  font-size: 30px;
+}

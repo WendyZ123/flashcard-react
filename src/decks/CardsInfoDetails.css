@@ -1,0 +1,19 @@
+.cards-info-details {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.card-details {
+    justify-content: space-between;
+}
+
+.card-details p {
+    width: 300px;
+}
+
+.card-buttons {
+    justify-content: flex-end; 
+}
